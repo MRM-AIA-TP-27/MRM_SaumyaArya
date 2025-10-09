@@ -14,6 +14,7 @@ Initialized a Git repository, committed the program, and pushed it to my GitHub 
 
 ## Commands Used
 
+```sh
 mkdir GitHub_task
 cd GitHub_task
 nano hello.py
@@ -24,3 +25,4 @@ git add .
 git commit -m "Task 1: Add Hello World program"
 git branch -M main
 git push -u origin main
+```
